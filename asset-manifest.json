@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reciepe-Finder-App-Main/static/css/main.881fd997.chunk.css",
+    "main.js": "/Reciepe-Finder-App-Main/static/js/main.02633d86.chunk.js",
+    "main.js.map": "/Reciepe-Finder-App-Main/static/js/main.02633d86.chunk.js.map",
+    "runtime-main.js": "/Reciepe-Finder-App-Main/static/js/runtime-main.60ebe002.js",
+    "runtime-main.js.map": "/Reciepe-Finder-App-Main/static/js/runtime-main.60ebe002.js.map",
+    "static/js/2.ddb34275.chunk.js": "/Reciepe-Finder-App-Main/static/js/2.ddb34275.chunk.js",
+    "static/js/2.ddb34275.chunk.js.map": "/Reciepe-Finder-App-Main/static/js/2.ddb34275.chunk.js.map",
+    "index.html": "/Reciepe-Finder-App-Main/index.html",
+    "precache-manifest.e16cb53608b81927cbe6894f10d99557.js": "/Reciepe-Finder-App-Main/precache-manifest.e16cb53608b81927cbe6894f10d99557.js",
+    "service-worker.js": "/Reciepe-Finder-App-Main/service-worker.js",
+    "static/css/main.881fd997.chunk.css.map": "/Reciepe-Finder-App-Main/static/css/main.881fd997.chunk.css.map",
+    "static/js/2.ddb34275.chunk.js.LICENSE.txt": "/Reciepe-Finder-App-Main/static/js/2.ddb34275.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60ebe002.js",
+    "static/js/2.ddb34275.chunk.js",
+    "static/css/main.881fd997.chunk.css",
+    "static/js/main.02633d86.chunk.js"
+  ]
+}
